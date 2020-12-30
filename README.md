@@ -1,6 +1,5 @@
 
-ejin sejin
-
+Hello. Welcome to Sejin's Git Hub!
 
 
 
